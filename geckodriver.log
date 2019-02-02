@@ -1,0 +1,1038 @@
+1547992818528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aiv5Tv5qkU37"
+1547992819407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547992819407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:3322): Gtk-WARNING **: 19:00:19.885: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3322): Gtk-WARNING **: 19:00:19.885: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1547992821604	Marionette	INFO	Listening on port 41417
+1547992821639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547992908181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YPUmkf2DbBqH"
+1547992908792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547992908792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:3650): Gtk-WARNING **: 19:01:49.137: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3650): Gtk-WARNING **: 19:01:49.137: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1547992910647	Marionette	INFO	Listening on port 34217
+1547992910701	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 43: TypeError: window is null
+
+(firefox:3650): GLib-GObject-WARNING **: 19:12:02.859: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fbc260e9510' of type 'MaiAtkType21'
+[Parent 3322, Gecko_IOThread] WARNING: pipe error (96): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 3322, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1547993706274	Marionette	INFO	Stopped listening on port 41417
+[Parent 3650, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 3650, Gecko_IOThread] WARNING: pipe error (85): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1547993859912	Marionette	INFO	Stopped listening on port 34217
+1547993866068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1lmTg6LQLP45"
+1547993866693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547993866693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:4514): Gtk-WARNING **: 19:17:47.055: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4514): Gtk-WARNING **: 19:17:47.055: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1547993868485	Marionette	INFO	Listening on port 43435
+1547993868576	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:4514): GLib-GObject-WARNING **: 19:17:54.172: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f710bf726f0' of type 'MaiAtkType13b'
+
+(firefox:4514): GLib-GObject-WARNING **: 19:17:54.172: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f7109a3afb0' of type 'MaiAtkType13b'
+
+(firefox:4514): GLib-GObject-WARNING **: 19:17:54.333: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7109a3afb0' of type 'MaiAtkType13b'
+
+(firefox:4514): GLib-GObject-WARNING **: 19:23:42.110: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f710499e650' of type 'MaiAtkType1'
+1547994230165	Marionette	INFO	Stopped listening on port 43435
+1547994233842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A3d3zVvJ3U1Y"
+1547994234417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547994234417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:5995): Gtk-WARNING **: 19:23:54.765: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5995): Gtk-WARNING **: 19:23:54.765: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1547994236270	Marionette	INFO	Listening on port 43445
+1547994236350	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:5995): GLib-GObject-WARNING **: 19:24:02.202: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f1487c93b50' of type 'MaiAtkType13b'
+
+(firefox:5995): GLib-GObject-WARNING **: 19:24:02.202: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f1487c93b00' of type 'MaiAtkType13b'
+
+(firefox:5995): GLib-GObject-WARNING **: 19:24:02.365: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1487c93b00' of type 'MaiAtkType13b'
+[Parent 5995, Gecko_IOThread] WARNING: pipe error (93): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1547994249502	Marionette	INFO	Stopped listening on port 43445
+1548065269126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vlzoVNbLpCeO"
+1548065269622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548065269623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:7819): Gtk-WARNING **: 15:07:50.004: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7819): Gtk-WARNING **: 15:07:50.004: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548065271518	Marionette	INFO	Listening on port 41861
+1548065271541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:7819): GLib-GObject-WARNING **: 15:07:53.542: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f01709c4560' of type 'MaiAtkType319'
+
+(firefox:7819): GLib-GObject-WARNING **: 15:07:54.414: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f01725c5ba0' of type 'MaiAtkType139'
+[Parent 7819, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 7819, Gecko_IOThread] WARNING: pipe error (82): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548065471658	Marionette	INFO	Stopped listening on port 41861
+1548065474266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xvIpmXpaWQxh"
+1548065474793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548065474793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:8273): Gtk-WARNING **: 15:11:15.207: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8273): Gtk-WARNING **: 15:11:15.207: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548065476804	Marionette	INFO	Listening on port 40499
+1548065476878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:8273): GLib-GObject-WARNING **: 15:11:19.294: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb4a3e98560' of type 'MaiAtkType319'
+
+(firefox:8273): GLib-GObject-WARNING **: 15:11:20.222: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb4a3eff9c0' of type 'MaiAtkType139'
+
+(firefox:8273): GLib-GObject-WARNING **: 15:12:48.701: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb4a437b7e0' of type 'MaiAtkType139'
+
+(/usr/lib/firefox/firefox:8462): dconf-WARNING **: 15:12:48.776: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+
+(firefox:8273): GLib-GObject-WARNING **: 15:12:49.562: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb4a3e98560' of type 'MaiAtkType319'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 8273, Gecko_IOThread] WARNING: pipe error (85): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 8273, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548065726040	Marionette	INFO	Stopped listening on port 40499
+1548065729403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WCGVyIhaiZtX"
+1548065729930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548065729930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:8738): Gtk-WARNING **: 15:15:30.350: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8738): Gtk-WARNING **: 15:15:30.350: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548065731984	Marionette	INFO	Listening on port 33507
+1548065732019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:8738): GLib-GObject-WARNING **: 15:15:34.301: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f22fdc833d0' of type 'MaiAtkType319'
+
+(firefox:8738): GLib-GObject-WARNING **: 15:15:35.067: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f22fde6f060' of type 'MaiAtkType139'
+[Parent 8738, Gecko_IOThread] WARNING: pipe error (103): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548065775964	Marionette	INFO	Stopped listening on port 33507
+1548065812927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Oy5WFxbFNrT6"
+1548065813468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548065813469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:9099): Gtk-WARNING **: 15:16:53.881: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9099): Gtk-WARNING **: 15:16:53.881: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548065815422	Marionette	INFO	Listening on port 33465
+1548065815441	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:9099): GLib-GObject-WARNING **: 15:16:57.404: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f065c970560' of type 'MaiAtkType319'
+
+(firefox:9099): GLib-GObject-WARNING **: 15:16:58.152: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f065cd77b00' of type 'MaiAtkType139'
+[Parent 9099, Gecko_IOThread] WARNING: pipe error (82): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548065829453	Marionette	INFO	Stopped listening on port 33465
+1548065858416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FXurq0lBozk5"
+1548065859018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548065859018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:9448): Gtk-WARNING **: 15:17:39.440: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9448): Gtk-WARNING **: 15:17:39.440: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548065860969	Marionette	INFO	Listening on port 35401
+1548065861025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:9448): GLib-GObject-WARNING **: 15:17:42.966: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f519f609600' of type 'MaiAtkType319'
+
+(firefox:9448): GLib-GObject-WARNING **: 15:17:43.743: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f519f21ad30' of type 'MaiAtkType139'
+
+(firefox:9448): GLib-GObject-WARNING **: 15:17:47.277: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f519f21ad30' of type 'MaiAtkType139'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:9448): GLib-GObject-WARNING **: 15:21:26.071: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f519f21ac90' of type 'MaiAtkType319'
+
+(firefox:9448): GLib-GObject-WARNING **: 15:21:26.792: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f51a1963b00' of type 'MaiAtkType139'
+[Parent 9448, Gecko_IOThread] WARNING: pipe error (82): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 9448, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548066225215	Marionette	INFO	Stopped listening on port 35401
+1548066228256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NdYmjNg9EzB5"
+1548066228826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548066228826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10074): Gtk-WARNING **: 15:23:49.239: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10074): Gtk-WARNING **: 15:23:49.239: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548066230798	Marionette	INFO	Listening on port 39173
+1548066230866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:10074): GLib-GObject-WARNING **: 15:23:52.946: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fadf0b225b0' of type 'MaiAtkType319'
+
+(firefox:10074): GLib-GObject-WARNING **: 15:23:53.851: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fadf0c10880' of type 'MaiAtkType139'
+
+(firefox:10074): GLib-GObject-WARNING **: 15:23:57.212: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fadf0c10a10' of type 'MaiAtkType139'
+
+(/usr/lib/firefox/firefox:10253): dconf-WARNING **: 15:23:57.271: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+
+(firefox:10074): GLib-GObject-WARNING **: 15:23:59.626: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fadf0b225b0' of type 'MaiAtkType319'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 10074, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548066292103	Marionette	INFO	Stopped listening on port 39173
+1548066297248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rq9YnMnpM712"
+1548066297773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548066297773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10425): Gtk-WARNING **: 15:24:58.180: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10425): Gtk-WARNING **: 15:24:58.180: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548066299685	Marionette	INFO	Listening on port 39107
+1548066299759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:10425): GLib-GObject-WARNING **: 15:25:01.963: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f28386cb8d0' of type 'MaiAtkType319'
+
+(firefox:10425): GLib-GObject-WARNING **: 15:25:02.749: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f28380b2ab0' of type 'MaiAtkType139'
+
+(firefox:10425): GLib-GObject-WARNING **: 15:25:06.267: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f28380b2c40' of type 'MaiAtkType139'
+
+(/usr/lib/firefox/firefox:10624): dconf-WARNING **: 15:25:06.327: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+
+(firefox:10425): GLib-GObject-WARNING **: 15:25:08.676: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f28386cb8d0' of type 'MaiAtkType319'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+
+(firefox:10425): GLib-GObject-WARNING **: 15:25:21.241: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f28380b2c90' of type 'MaiAtkType13b'
+
+(firefox:10425): GLib-GObject-WARNING **: 15:25:21.241: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f28380b2c40' of type 'MaiAtkType139'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548067065688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.U4MTEMB9M9mk"
+1548067066265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548067066265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:11426): Gtk-WARNING **: 15:37:46.670: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11426): Gtk-WARNING **: 15:37:46.670: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548067068142	Marionette	INFO	Listening on port 46269
+1548067068202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:11426): GLib-GObject-WARNING **: 15:37:50.434: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f595bd92bf0' of type 'MaiAtkType319'
+
+(firefox:11426): GLib-GObject-WARNING **: 15:37:51.211: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f595bed7b00' of type 'MaiAtkType139'
+
+(firefox:11426): GLib-GObject-WARNING **: 15:37:54.725: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f595bed7c90' of type 'MaiAtkType139'
+
+(/usr/lib/firefox/firefox:11624): dconf-WARNING **: 15:37:54.788: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+
+(firefox:11426): GLib-GObject-WARNING **: 15:37:57.113: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f595bd92bf0' of type 'MaiAtkType319'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1548067109238	Marionette	INFO	Stopped listening on port 39107
+[Parent 11426, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548067110632	Marionette	INFO	Stopped listening on port 46269
+1548067349617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v36Aws8cwpV9"
+1548067350155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548067350155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:11886): Gtk-WARNING **: 15:42:30.551: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11886): Gtk-WARNING **: 15:42:30.551: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548067352115	Marionette	INFO	Listening on port 39707
+1548067352135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:11886): GLib-GObject-WARNING **: 15:42:34.235: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f2b996508d0' of type 'MaiAtkType319'
+
+(firefox:11886): GLib-GObject-WARNING **: 15:42:35.229: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f2b9992cba0' of type 'MaiAtkType139'
+
+(firefox:11886): GLib-GObject-WARNING **: 15:42:38.524: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f2b9992cd30' of type 'MaiAtkType139'
+
+(/usr/lib/firefox/firefox:12084): dconf-WARNING **: 15:42:38.586: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+
+(firefox:11886): GLib-GObject-WARNING **: 15:42:40.932: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f2b996508d0' of type 'MaiAtkType319'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 11886, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548067484141	Marionette	INFO	Stopped listening on port 39707
+1548067507895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.484fVXiCKnWH"
+1548067508401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548067508402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:12311): Gtk-WARNING **: 15:45:08.738: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12311): Gtk-WARNING **: 15:45:08.738: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548067510206	Marionette	INFO	Listening on port 35365
+1548067510335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:12311): GLib-GObject-WARNING **: 15:45:13.305: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f9216348c90' of type 'MaiAtkType319'
+
+(firefox:12311): GLib-GObject-WARNING **: 15:45:15.115: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f921655b100' of type 'MaiAtkType139'
+
+(firefox:12311): GLib-GObject-WARNING **: 15:45:17.362: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f921655b2e0' of type 'MaiAtkType139'
+
+(/usr/lib/firefox/firefox:12502): dconf-WARNING **: 15:45:17.404: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+
+(firefox:12311): GLib-GObject-WARNING **: 15:45:19.761: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f9216348c90' of type 'MaiAtkType319'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548067549892	Marionette	INFO	Stopped listening on port 35365
+1548067563042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ud51coALoNNV"
+1548067563561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548067563561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:12656): Gtk-WARNING **: 15:46:03.944: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12656): Gtk-WARNING **: 15:46:03.944: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548067565411	Marionette	INFO	Listening on port 46193
+1548067565466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:12656): GLib-GObject-WARNING **: 15:46:07.769: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f4abed6aa10' of type 'MaiAtkType319'
+
+(firefox:12656): GLib-GObject-WARNING **: 15:46:09.151: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f4abef4ba60' of type 'MaiAtkType139'
+
+(firefox:12656): GLib-GObject-WARNING **: 15:46:11.962: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f4abef4bbf0' of type 'MaiAtkType139'
+
+(/usr/lib/firefox/firefox:12844): dconf-WARNING **: 15:46:12.025: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+
+(firefox:12656): GLib-GObject-WARNING **: 15:46:14.363: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f4abed6aa10' of type 'MaiAtkType319'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548067730796	Marionette	INFO	Stopped listening on port 46193
+1548118912341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AO9bpRwjADCn"
+1548118912909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548118912909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:19758): Gtk-WARNING **: 06:01:53.327: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19758): Gtk-WARNING **: 06:01:53.327: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548118914925	Marionette	INFO	Listening on port 42687
+1548118914960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:19758): GLib-GObject-WARNING **: 06:01:57.416: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f2569bd21a0' of type 'MaiAtkType319'
+
+(firefox:19758): GLib-GObject-WARNING **: 06:01:58.575: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f2566319a60' of type 'MaiAtkType139'
+
+(firefox:19758): GLib-GObject-WARNING **: 06:02:01.719: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f2566319bf0' of type 'MaiAtkType139'
+
+(/usr/lib/firefox/firefox:19952): dconf-WARNING **: 06:02:01.781: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+
+(firefox:19758): GLib-GObject-WARNING **: 06:02:04.138: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f2569bd21a0' of type 'MaiAtkType319'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 19758, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 19758, Gecko_IOThread] WARNING: pipe error (93): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548118944448	Marionette	INFO	Stopped listening on port 42687
+1548755683843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P8hQhEkevIP2"
+1548755684696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548755684696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:5253): Gtk-WARNING **: 14:54:45.182: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5253): Gtk-WARNING **: 14:54:45.182: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548755686814	Marionette	INFO	Listening on port 44783
+1548755686863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:5253): GLib-GObject-WARNING **: 14:54:49.289: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f446ab788d0' of type 'MaiAtkType319'
+
+(firefox:5253): GLib-GObject-WARNING **: 14:54:50.495: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f446ce07920' of type 'MaiAtkType139'
+
+(firefox:5253): GLib-GObject-WARNING **: 14:54:53.487: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f446ce07ab0' of type 'MaiAtkType139'
+
+(/usr/lib/firefox/firefox:5452): dconf-WARNING **: 14:54:53.550: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+
+(firefox:5253): GLib-GObject-WARNING **: 14:54:55.894: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f446ab788d0' of type 'MaiAtkType319'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1548755788546	Marionette	INFO	Stopped listening on port 44783
+1548756683843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8KeI6keilQoe"
+1548756684528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548756684528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:6362): Gtk-WARNING **: 15:11:24.888: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6362): Gtk-WARNING **: 15:11:24.888: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548756686621	Marionette	INFO	Listening on port 44127
+1548756686664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:6362): GLib-GObject-WARNING **: 15:11:35.610: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fcffa7f2dd0' of type 'MaiAtkType319'
+
+(firefox:6362): GLib-GObject-WARNING **: 15:11:37.573: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fcffa905e70' of type 'MaiAtkType139'
+1548756833203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9vR8eAXnpMFp"
+1548756833742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548756833743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:6826): Gtk-WARNING **: 15:13:54.062: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6826): Gtk-WARNING **: 15:13:54.062: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548756835447	Marionette	INFO	Listening on port 33913
+1548756835534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:6826): GLib-GObject-WARNING **: 15:13:57.931: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb7d68718d0' of type 'MaiAtkType319'
+
+(firefox:6826): GLib-GObject-WARNING **: 15:13:58.981: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb7d68c5420' of type 'MaiAtkType139'
+
+(firefox:6826): GLib-GObject-WARNING **: 15:14:02.155: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb7d68c5600' of type 'MaiAtkType139'
+
+(/usr/lib/firefox/firefox:7019): dconf-WARNING **: 15:14:02.219: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+
+(firefox:6826): GLib-GObject-WARNING **: 15:14:04.536: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb7d68718d0' of type 'MaiAtkType319'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1548756848761	Marionette	INFO	Stopped listening on port 33913
+[Parent 6826, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548757339208	Marionette	INFO	Stopped listening on port 44127
+1548807955630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nCO0ntpiac12"
+1548807956327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548807956328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:5699): Gtk-WARNING **: 05:25:56.723: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5699): Gtk-WARNING **: 05:25:56.724: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548807958413	Marionette	INFO	Listening on port 45089
+1548807958452	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5699, Gecko_IOThread] WARNING: pipe error (87): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 5699, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548807986554	Marionette	INFO	Stopped listening on port 45089
+1548808011541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.675824Evf42n"
+1548808011958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548808011958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:6018): Gtk-WARNING **: 05:26:52.306: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6018): Gtk-WARNING **: 05:26:52.306: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1548808013569	Marionette	INFO	Listening on port 40233
+1548808013663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/ComComp.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Grid.js, line 1: unreachable code after return statement
+JavaScript error: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/Dext5Upload.js, line 1: SyntaxError: expected expression, got keyword 'else'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/component/CompBase.js, line 1: unreachable code after return statement
+
+(firefox:6018): GLib-GObject-WARNING **: 05:26:56.158: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7effc0a5b4c0' of type 'MaiAtkType319'
+
+(firefox:6018): GLib-GObject-WARNING **: 05:26:57.308: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7effc0af29c0' of type 'MaiAtkType139'
+
+(firefox:6018): GLib-GObject-WARNING **: 05:27:00.409: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7effc0af2ba0' of type 'MaiAtkType139'
+
+(/usr/lib/firefox/firefox:6208): dconf-WARNING **: 05:27:00.470: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+
+(firefox:6018): GLib-GObject-WARNING **: 05:27:02.734: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7effc0a5b4c0' of type 'MaiAtkType319'
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ddms.kia.com/nxui/ddms/nexacro14lib/framework/Framework.js, line 1: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 6018, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548808025875	Marionette	INFO	Stopped listening on port 40233
