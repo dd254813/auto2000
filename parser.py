@@ -4,22 +4,28 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 
 class Bot:
+    """
+    Метод __init__ определяет порядок выполнения остальных методов
+    Метод login описывает авторизацию на сайте и переход до требуемой страницы
+    Метод get_data описывает вход на страницу поиска, перебор списка вин номеров с очисткой поля input.
+    Информация со страницы (ячеек таблицы) пишется во временные словари (иерархия vin_dict : {z_dic : {inner_dic : {'service','date','odometr','dealer'}}})
+    При каждой итерации, данные дописываются в файл info.txt
+    """
 
     def __init__(self, vin_list):
         self.driver = webdriver.Firefox()
-        self.login(vin_list)
-        #self.get_data()
+        self.login()
+        self.get_data(vin_list)
 
-    def login(self, vin_list):
-
+    def login(self):
         self.driver.get('http://ddms.kia.com/nxui/ddms/index.html')
         sleep(5)
         self.driver.find_element_by_id("mainframe_LOOGIN_form_Div00_edt_userid_input").send_keys("pvenukidze")   # Находим input по id и вставляем в него логин
-        self.driver.find_element_by_id("mainframe_LOOGIN_form_Div00_edt_pwd").click()                       # Находим блок с паролем и кликаем по нему, т.к. input предварительно недоступен
-        # sleep(2)                                                                                            # Задержка
+        self.driver.find_element_by_id("mainframe_LOOGIN_form_Div00_edt_pwd").click()                            # Находим блок с паролем и кликаем по нему, т.к. input предварительно недоступен
+        # sleep(2)                                                                                               # Задержка
         self.driver.find_element_by_id("mainframe_LOOGIN_form_Div00_edt_pwd_input").send_keys("petr130485")      # Находим input пароля, вводим в него пароль
-        button = self.driver.find_element_by_id('mainframe_LOOGIN_form_Div00_btn_login')                    # Находим кнопку Login
-        button.click()                                                                                      # Кликаем по кнопке Login
+        button = self.driver.find_element_by_id('mainframe_LOOGIN_form_Div00_btn_login')                         # Находим кнопку Login
+        button.click()                                                                                           # Кликаем по кнопке Login
         sleep(8)
         url_gwms =  self.driver.find_element_by_id('mainframe_VFrameSet_MiddleHFrameSet_WorkVFrameSet_MainHFrameSet_WorkFrameSet_HOME_form_div_siteLink_btn_gwmsImageElement')
         url_gwms.click()
@@ -28,9 +34,10 @@ class Bot:
             self.driver.switch_to_window(handle)
         press_confirm = self.driver.find_element_by_id('btnMsgYes_000001')
         press_confirm.click()
+
+    def get_data(self, vin_list):
         self.driver.get('http://gwms.kiacdn.com/jsp_html5/w400_basic_data/w400_0103/W400_0103.jsp')
         sleep(5)
-        #vin_list = ['XWEPC813DB0000246','XWEPH81ADH0011955','Z94CB41BAHR446738','Z94CB41BAHR439798','XWEFX411BHC004238','XWEPH81AAH0000459']
         vin_dict = {}
         for vin in vin_list:
             i=0
@@ -63,6 +70,7 @@ class Bot:
         for key, val in vin_dict.items():
             print(key, '  ', val)
         self.driver.quit()
+
 
 def file_open():
     vin_list = []
