@@ -5,17 +5,16 @@ from selenium.webdriver.common.keys import Keys
 
 class Bot:
     """
-    Метод __init__ определяет порядок выполнения остальных методов
+    Метод __init__ инициирует драйвер браузера
     Метод login описывает авторизацию на сайте и переход до требуемой страницы
     Метод get_data описывает вход на страницу поиска, перебор списка вин номеров с очисткой поля input.
-    Информация со страницы (ячеек таблицы) пишется во временные словари (иерархия vin_dict : {z_dic : {inner_dic : {'service','date','odometr','dealer'}}})
+    Информация со страницы (ячеек таблицы) пишется во временные словари (структура -  вин номер : {Номер ТО : {'Заказ наряд','дата','пробег','диллер'}})
     При каждой итерации, данные дописываются в файл info.txt
     """
 
     def __init__(self, vin_list):
         self.driver = webdriver.Firefox()
-        self.login()
-        self.get_data(vin_list)
+
 
     def login(self):
         self.driver.get('http://ddms.kia.com/nxui/ddms/index.html')
@@ -80,9 +79,13 @@ def file_open():
                 vin_list.append(line.replace('\n',''))
     return vin_list
 
+
 def main():
     res = file_open()
     b = Bot(res)                                                                                               # Инициализируем экземпляр класса
+    b.login()
+    b.get_data(vin_list)
+
 
 if __name__ == '__main__':                                                                                  # Точка входа
     main()
