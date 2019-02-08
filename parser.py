@@ -43,7 +43,7 @@ class Bot:
         sleep(2)
         vin_dict = {}
         z=0
-        print("Время начала: " + str(datetime.datetime.now()))
+        print("Время начала: {}".format(str(datetime.datetime.now())))
         for vin in vin_list:
             persent = round(z/len(vin_list)*100,2)
             print("Выполнено: {}%".format(str(persent)), end='\r')
@@ -88,7 +88,7 @@ class Bot:
             with open('info.txt', 'a') as file:
                 file.write(vin+': '+str(vin_dict[vin])+'\n')
             z+=1
-        print("Время окончания: " + str(datetime.datetime.now()))
+        print("Время окончания: {}". format(str(datetime.datetime.now())))
         # for key, val in vin_dict.items():
         #     print(key, '  ', val)
         self.driver.quit()
