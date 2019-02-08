@@ -14,15 +14,17 @@ class Bot:
 
     def __init__(self, vin_list):
         self.driver = webdriver.Firefox()
+        self.login = 'pvenukidze'
+        self.password = 'petr130485'
 
 
     def login(self):
         self.driver.get('http://ddms.kia.com/nxui/ddms/index.html')
         sleep(5)
-        self.driver.find_element_by_id("mainframe_LOOGIN_form_Div00_edt_userid_input").send_keys("pvenukidze")   # Находим input по id и вставляем в него логин
+        self.driver.find_element_by_id("mainframe_LOOGIN_form_Div00_edt_userid_input").send_keys(self.login)   # Находим input по id и вставляем в него логин
         self.driver.find_element_by_id("mainframe_LOOGIN_form_Div00_edt_pwd").click()                            # Находим блок с паролем и кликаем по нему, т.к. input предварительно недоступен
         # sleep(2)                                                                                               # Задержка
-        self.driver.find_element_by_id("mainframe_LOOGIN_form_Div00_edt_pwd_input").send_keys("petr130485")      # Находим input пароля, вводим в него пароль
+        self.driver.find_element_by_id("mainframe_LOOGIN_form_Div00_edt_pwd_input").send_keys(self.password)      # Находим input пароля, вводим в него пароль
         button = self.driver.find_element_by_id('mainframe_LOOGIN_form_Div00_btn_login')                         # Находим кнопку Login
         button.click()                                                                                           # Кликаем по кнопке Login
         sleep(8)
