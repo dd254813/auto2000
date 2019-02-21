@@ -15,6 +15,10 @@ class Bot:
     """
 
     def __init__(self):
+        #options = webdriver.ChromeOptions()
+        #options.add_argument('--headless')
+        #chrome_options=options
+        #self.driver = webdriver.Chrome(chrome_options=options)
         self.driver = webdriver.Firefox()
         self.login = 'pvenukidze'
         self.password = 'petr130485'
